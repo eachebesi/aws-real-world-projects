@@ -4,6 +4,7 @@
 ### A) Create The VPC Network
 - Name: `Prod-VPC`
 - CidirBlock: `10.0.0.0/16`
+-
 
 ### B) Create The NAT/AL Subnet 1 and 2
 1. NAT/ALB Subnet 1
